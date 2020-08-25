@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e906580d-f4f3-459c-afa6-fa6de037c6ac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contatos/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contatos/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
