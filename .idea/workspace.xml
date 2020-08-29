@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e906580d-f4f3-459c-afa6-fa6de037c6ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/contatos/templates/contatos/ver_contato.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contatos/templates/contatos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/templates/contatos/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contatos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contatos/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
